@@ -1,2 +1,4 @@
-# nbaAnalysis
-Anything related to analyzing NBA data
+## nbaAnalysis
+First possible project:
+Calculate real expected score
+
