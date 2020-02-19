@@ -1,5 +1,5 @@
 # nbaAnalysis
-Calculating real expected score
+##Calculating real expected score
 
 General - based on the shots a team is able to create on offense how many points would you expect them to score. Imagining if this same game was played many times over what would be the average score.
 
@@ -24,6 +24,10 @@ Possible Issues:
 
 Posessions with offensive rebounds
 
-Should also find some correlation with fouls to account for a team that is either getting or not getting fouls called.
+Should also find some correlation with fouls to account for a team that is either getting or not getting fouls called. Can possibly be based on drives. 
 
- 
+##Same play every time down
+
+What would happen if a team ran their best play every time down. 
+
+How does effectiveness of a play change with the amount of times it is used in one game.
